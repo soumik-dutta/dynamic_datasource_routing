@@ -5,6 +5,6 @@ package com.omoto.viewaccess;
  * Created by omoto on 22/8/16.
  */
 public enum DbType {
-    AMRI,
-    FEMINT
+    CON1,
+    CON2
 }
